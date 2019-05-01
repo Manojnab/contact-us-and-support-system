@@ -1,0 +1,21 @@
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: skyblue;
+}
+marquee{
+  font-weight:bold;
+}
+p {
+  font-weight:bold;
+  background-color: yellow;
+}
+li{
+  font-weight:bold;
+}
+body {
+  background-image: url(project.jpg);
+  background-color: #cccccc;
+}
