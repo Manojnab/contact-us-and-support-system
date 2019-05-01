@@ -1,0 +1,12 @@
+Team members:
+Manasa Desai
+Manojna B
+Rajiya Sulthan
+
+Selected module name and discription:
+
+Design a system where the user gets support and
+registers his/her feedback for the service.
+The page should contain two sections:
+1. Feedback section with “Send Feedback” button.
+2. Support section with “Support”.
